@@ -4,6 +4,7 @@ export const UserInput = () => {
     
   return (
     <div>
+        {/* input box */}
         <input type="text" />
     </div>
   )

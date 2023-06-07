@@ -41,10 +41,7 @@ input{
   border-radius: 10px;
   margin-top: 1rem;
 }
-
-#text-container{
-
-}
+/* paragraph styling */
 p{
   text-align: center;
   color: black;
